@@ -1,0 +1,26 @@
+.green-bg {
+    background-color: #d1e7dd;
+}
+
+.red-bg {
+    background-color: #f8d7da;
+}
+
+.check-icon {
+    color: green;
+}
+
+.close-icon {
+    color: red;
+}
+
+.sort-arrow {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 0.25rem;
+}
+
+.cursor {
+    cursor: pointer;
+}

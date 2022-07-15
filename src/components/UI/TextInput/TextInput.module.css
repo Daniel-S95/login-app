@@ -1,0 +1,13 @@
+.text-input {
+    width: 100%;
+}
+
+label.input-label {
+    font-size: 0.8rem;
+}
+
+.password-requirement {
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    color: #014F86;
+}
